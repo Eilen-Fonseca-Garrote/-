@@ -1,4 +1,4 @@
-# # Planeta Tierra🌎
+## Planeta Tierra🌎
 
 # Rotaciones del planeta Tierra utilizando librerías JS y manejando el DOM 
 
